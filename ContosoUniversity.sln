@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{02FC0560-E85E-4497-BD00-86206D5EB991}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{7E588C22-B89C-4B1E-BCC7-8EC76B456741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FC0560-E85E-4497-BD00-86206D5EB991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FC0560-E85E-4497-BD00-86206D5EB991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FC0560-E85E-4497-BD00-86206D5EB991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FC0560-E85E-4497-BD00-86206D5EB991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F35ABED-8A99-42CB-9EFB-65569698605A}
+	EndGlobalSection
+EndGlobal
